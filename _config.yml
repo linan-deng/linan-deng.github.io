@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linan Deng"
-description              : "personal homepage"
+description              : "School of Mechanical Science and Engineering, Huazhong University of Science and Technology"
 repository               : "linan-deng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linan Deng (邓礼楠)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Mechanical Science and Engineering, Huazhong University of Science and Technology"
+  bio              : "PhD Student"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
