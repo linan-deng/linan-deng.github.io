@@ -19,7 +19,7 @@ redirect_from:
 
 Comming soon.
 
-My research interest includes neural machine translation and computer vision. I have published more than xxx papers <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes tactile sensing and robotic grasping. I have published more than xxx papers <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 .
 
 
