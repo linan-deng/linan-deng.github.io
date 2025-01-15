@@ -46,15 +46,15 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 </div>
 
 ## Journal Papers
-- 2024. **Linan Deng**, Yasen Wang, Zuogong Yue, & Zhi Li*. RTES: Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. (under review).
-- 2024. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, & Han Ding. Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects. (under review).
-- 2023. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, & Han Ding. Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task. IEEE/ASME Transactions on Mechatronics.
-- 2022. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, & Han Ding. Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
-- 2022. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, & Ye Yuan. Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects. IEEE Robotics and Automation Letters, 7(2), 5607-5614.
+- *2024*. **Linan Deng**, Yasen Wang, Zuogong Yue, & Zhi Li*. RTES: Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. (under review).
+- *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, & Han Ding. Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects. (under review).
+- *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, & Han Ding. Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task. IEEE/ASME Transactions on Mechatronics.
+- *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, & Han Ding. Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
+- *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, & Ye Yuan. Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects. IEEE Robotics and Automation Letters, 7(2), 5607-5614.
 
 ## Conference Papers
-- 2022, May. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
-- 2022, August. Ming Liu, Yang Hong, & **Linan Deng***. Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
+- *2022*, May. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
+- *2022*, August. Ming Liu, Yang Hong, & **Linan Deng***. Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
