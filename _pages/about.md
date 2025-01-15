@@ -53,10 +53,10 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 - *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, & Ye Yuan. Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects. IEEE Robotics and Automation Letters, 7(2), 5607-5614.
 
 ## Conference Papers
-- *2023, July*. Jingyu Yang, Yi Shen, & **Linan Deng**. Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts. In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE.
-- *2022, May*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
-- *2022, August*. Ming Liu, Yang Hong, & **Linan Deng***. Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
-- *2021, July*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. Model predictive control method for multi-motor system with dead zone. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
+- *2023*. Jingyu Yang, Yi Shen, & **Linan Deng**. Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts. In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE.
+- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
+- *2022*. Ming Liu, Yang Hong, & **Linan Deng***. Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
+- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. Model predictive control method for multi-motor system with dead zone. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
