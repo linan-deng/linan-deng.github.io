@@ -23,9 +23,9 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 <!-- <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'>google scholar citations <strong><span id='total_cit'>demo+</span></strong></a>  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
+- *2019.06 - 2025.01 (now)*, School of Mechanical Science and Engineering, Huazhong University of Science and Technology. 
+- *2018.09 - 2019.06*, China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
+- *2014.09 - 2018.06*, B.E. in Marine Engineering, School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
