@@ -29,7 +29,7 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
