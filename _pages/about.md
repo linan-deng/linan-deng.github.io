@@ -54,7 +54,7 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 
 ## Conference Papers
 - **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. (2022, May). [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
-- Ming Liu, Yang Hong, & **Linan Deng***. (corresponding author, 2022, August). Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
+- Ming Liu, Yang Hong, & **Linan Deng***. (2022, August). Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
