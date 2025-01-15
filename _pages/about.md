@@ -23,13 +23,13 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 <!-- <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'>google scholar citations <strong><span id='total_cit'>demo+</span></strong></a>  -->
 
 # 📖 Educations
-- *2019.06 - 2025.01 (now)*: School of Mechanical Science and Engineering, Huazhong University of Science and Technology. 
-- *2018.09 - 2019.06*: China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
-- *2014.09 - 2018.06*: B.E. in Marine Engineering, School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
+- *2019.06 - 2025.01 (now)*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology. 
+- *2018.09 - 2019.06*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
+- *2014.09 - 2018.06*. B.E. in Marine Engineering, School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*. &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*. &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -59,14 +59,14 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 - *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. Model predictive control method for multi-motor system with dead zone. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 # 🎖 Honors and Awards
-- *2021.10*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Experiences
-- *2021.06*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 <!-- 注释内容
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*. [Lorem](https://github.com/), China.
  -->
