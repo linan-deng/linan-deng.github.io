@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes tactile sensing and robotic grasping. I have published some papers at the robotic journals and conferences with total <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'>google scholar citations <strong><span id='total_cit'>demo+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes tactile sensing and robotic grasping. I have published some papers at the robotic journals and conferences (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+ % <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'>google scholar citations <strong><span id='total_cit'>demo+</span></strong></a> 
 
 
 # 🔥 News
