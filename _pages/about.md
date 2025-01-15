@@ -32,16 +32,16 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[demo](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
 
-**demo**, demo
+**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, Han Ding
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=28u-d90AAAAJ&citation_for_view=28u-d90AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **ICRA 2022**
+- [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412), **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, Han Ding, **ICRA 2022**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
