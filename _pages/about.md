@@ -46,7 +46,7 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 </div>
 
 ## Journal Papers
-- *2024*. **Linan Deng**, Yasen Wang, Zuogong Yue, & Zhi Li*. RTES: Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. (under review).
+- *2024*. **Linan Deng**, Yasen Wang, Zuogong Yue, & Zhi Li*. A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. (under review).
 - *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, & Han Ding. [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/). IEEE Transactions on Instrumentation and Measurement.
 - *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, & Han Ding. [Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task](https://ieeexplore.ieee.org/abstract/document/10339910/). IEEE/ASME Transactions on Mechatronics.
 - *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, & Han Ding. [Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning](https://ieeexplore.ieee.org/abstract/document/9750893/). IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
