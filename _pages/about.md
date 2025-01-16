@@ -62,11 +62,11 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - CN114274162A. Yuan, Y., Zhang, J., Shen, Y., & **Deng, L.**
 
 ## National Utility Model Patents
-- CN213859341U. Yuan, Y., Shen, Y., Deng, L., Dong, Y., Tang, X.
-- CN217778958U. Yuan, Y., Li, Y., Deng, L., Shen, Y., Zhang, J.
-- CN213422490U. Yuan, Y., Fan, G., Shen, Y., Deng, L., Tang, X.
-- CN216185962U. Yuan, Y., Han, Y., Shen, Y., Deng, L., Fan, G.
-- CN216185961U. Yuan, Y., Xiao, L., Shen, Y., Deng, L., Fan, G.
+- CN213859341U. Yuan, Y., Shen, Y., **Deng, L.**, Dong, Y., Tang, X.
+- CN217778958U. Yuan, Y., Li, Y., **Deng, L.**, Shen, Y., Zhang, J.
+- CN213422490U. Yuan, Y., Fan, G., Shen, Y., **Deng, L.**, Tang, X.
+- CN216185962U. Yuan, Y., Han, Y., Shen, Y., **Deng, L.**, Fan, G.
+- CN216185961U. Yuan, Y., Xiao, L., Shen, Y., **Deng, L.**, Fan, G.
 
 # 🎖 Honors and Awards
 ## Competition
