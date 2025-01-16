@@ -86,7 +86,11 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
 # 💬 Experiences
-- *2021.06*. ... 
+## Review Activities
+- IEEE Robotics and Automation Letters (RA-L) (2021)
+- IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2021)
+- Chinese Control and Decision Conference (CCDC) (2022)
 
 <!-- 注释内容
 # 💻 Internships
