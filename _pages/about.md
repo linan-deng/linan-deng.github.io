@@ -24,8 +24,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 
 
 # 🔥 News
-- *2022.02*. &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*. &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*. &nbsp;🎉🎉 Welcome to my personal website. 
 
 # 📝 Publications 
 
@@ -72,8 +71,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
 # 💬 Experiences
-- *2021.06*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*. ... 
 
 <!-- 注释内容
 # 💻 Internships
