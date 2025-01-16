@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes tactile sensing and robotic grasping. I have published some papers at the robotic journals and conferences (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <!-- 注释内容 -->
 <!-- <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'>google scholar citations <strong><span id='total_cit'>demo+</span></strong></a>  -->
@@ -55,8 +55,16 @@ My research interest includes tactile sensing and robotic grasping. I have publi
 - *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 # 🎖 Honors and Awards
-- *2021.10*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Competition
+- *2023.09*. 2023 China International College Students' "Internet+" Innovation Entrepreneurship Competition (Bronze Prize in HUST)
+- *2022.08*. 2022 Artificial Intelligence Conference and Entrepreneurs Summit Forum of China’s Optics Valley (Best Student Poster Award)
+- *2022.08*. 2022 China Postgraduate Robot Innovation and Design Competition (National Third Prize)
+- *2015.11*. 2015 Chinese Mathematics Competitions (National Second Prize)
+## Others
+- *2023.12*. Scholarship for Outstanding Doctoral Students, HUST
+- *2022.12*. Third Prize of Zhixing Scholarship, HUST
+- *2021.11*. Excellent Postgraduate Cadre, HUST
+- *2018.06*. Outstanding Graduate, HUST
 
 # 📖 Educations
 - *2019.09 - 2025.01 (now)*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology. 
