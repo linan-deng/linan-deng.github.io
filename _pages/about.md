@@ -54,19 +54,19 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 ## National Invention Patents
-- CN112880547B. Yuan, Y., **Deng, L.**, Shen, Y., Fan, G., & Hong, Y.
-- CN113576832B. Yuan, Y., **Deng, L.**, Shen, Y., Fan, G., & Liu, M.
-- CN110400306B. Deng, Z., Dong, Y., **Deng, L.**, Tang, X., Deng, L., & Cao, R.
-- CN112229553B. Yuan, Y., Fan, G., Shen, Y., **Deng, L.**, & Tang, X.
-- CN112454421A. Yuan, Y., Shen, Y., **Deng, L.**, Dong, Y., & Tang, X.
-- CN114274162A. Yuan, Y., Zhang, J., Shen, Y., & **Deng, L.**
+- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, & Yang Hong.
+- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, & Ming Liu.
+- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, & Renguang Cao.
+- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, & Xiuchuan Tang.
+- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, & Xiuchuan Tang.
+- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, & **Linan Deng**
 
 ## National Utility Model Patents
-- CN213859341U. Yuan, Y., Shen, Y., **Deng, L.**, Dong, Y., Tang, X.
-- CN217778958U. Yuan, Y., Li, Y., **Deng, L.**, Shen, Y., Zhang, J.
-- CN213422490U. Yuan, Y., Fan, G., Shen, Y., **Deng, L.**, Tang, X.
-- CN216185962U. Yuan, Y., Han, Y., Shen, Y., **Deng, L.**, Fan, G.
-- CN216185961U. Yuan, Y., Xiao, L., Shen, Y., **Deng, L.**, Fan, G.
+- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, Xiuchuan Tang.
+- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, Jinghao Zhang.
+- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, Xiuchuan Tang.
+- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, Genglin Fan.
+- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, Genglin Fan.
 
 # 🎖 Honors and Awards
 ## Competition
