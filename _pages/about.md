@@ -33,7 +33,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
 
-**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, Han Ding
+**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, & Han Ding
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=28u-d90AAAAJ&citation_for_view=28u-d90AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
@@ -62,11 +62,11 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, & **Linan Deng**
 
 ## National Utility Model Patents
-- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, Xiuchuan Tang.
-- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, Jinghao Zhang.
-- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, Xiuchuan Tang.
-- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, Genglin Fan.
-- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, Genglin Fan.
+- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, & Xiuchuan Tang.
+- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, & Jinghao Zhang.
+- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, & Xiuchuan Tang.
+- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, & Genglin Fan.
+- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, & Genglin Fan.
 
 # 🎖 Honors and Awards
 ## Competition
