@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Linan DENG (邓礼楠)"
+  name             : "Linan DENG<br>邓礼楠"
   avatar           : "images/personal_image.jpg"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
