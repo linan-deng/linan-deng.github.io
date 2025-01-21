@@ -17,41 +17,79 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interest includes tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+# 馃敟 News
+- *2025.01*. &nbsp;馃帀馃帀 Welcome to my personal website!
 
+# 馃摑 Publications 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, & Han Ding
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=28u-d90AAAAJ&citation_for_view=28u-d90AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Journal Papers
+- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, & Zhi Li*. A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. (Oncoming).
+- *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, & Han Ding. [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/). IEEE Transactions on Instrumentation and Measurement.
+- *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, & Han Ding. [Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task](https://ieeexplore.ieee.org/abstract/document/10339910/). IEEE/ASME Transactions on Mechatronics.
+- *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, & Han Ding. [Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning](https://ieeexplore.ieee.org/abstract/document/9750893/). IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
+- *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, & Ye Yuan. [Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/9732681/). IEEE Robotics and Automation Letters, 7(2), 5607-5614.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Conference Papers
+- *2023*. Jingyu Yang*, Yi Shen, & **Linan Deng**. [Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts](https://ieeexplore.ieee.org/abstract/document/10208545/). In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE.
+- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
+- *2022*. Ming Liu, Yang Hong, & **Linan Deng***. [Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion](https://ieeexplore.ieee.org/document/10034084). In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
+- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## National Invention Patents
+- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, & Yang Hong.
+- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, & Ming Liu.
+- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, & Renguang Cao.
+- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, & Xiuchuan Tang.
+- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, & Xiuchuan Tang.
+- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, & **Linan Deng**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## National Utility Model Patents
+- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, & Xiuchuan Tang.
+- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, & Jinghao Zhang.
+- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, & Xiuchuan Tang.
+- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, & Genglin Fan.
+- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, & Genglin Fan.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 馃帠 Honors and Awards
+## Competition
+- *2023.09*. China International College Students' "Internet+" Innovation Entrepreneurship Competition (Bronze Prize in HUST)
+- *2022.08*. Artificial Intelligence Conference and Entrepreneurs Summit Forum of China鈥檚 Optics Valley (Best Student Poster Award)
+- *2022.08*. China Postgraduate Robot Innovation and Design Competition (National Third Prize)
+- *2015.11*. Chinese Mathematics Competitions (National Second Prize)
+
+## Others
+- *2023.12*. Scholarship for Outstanding Doctoral Students, HUST
+- *2022.12*. Third Prize of Zhixing Scholarship, HUST
+- *2021.11*. Excellent Postgraduate Cadre, HUST
+- *2018.06*. Outstanding Graduate, HUST
+
+# 馃摉 Educations
+- *2019.09 - 2025.01 (now)*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology. 
+- *2018.09 - 2019.06*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
+- *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
+
+# 馃挰 Experiences
+## Review Activities
+- IEEE Robotics and Automation Letters (RA-L) (2021)
+- IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2021)
+- Chinese Control and Decision Conference (CCDC) (2022)
+
+<!-- 娉ㄩ噴鍐呭
+# 馃捇 Internships
+- *2019.05 - 2020.02*. [Lorem](https://github.com/), China.
+ -->
