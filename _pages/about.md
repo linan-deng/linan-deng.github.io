@@ -20,7 +20,7 @@ redirect_from:
 My research interest includes tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2025.01*. &nbsp;馃帀馃帀 Welcome to my personal website!
+- *2025.01*. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications 
 
