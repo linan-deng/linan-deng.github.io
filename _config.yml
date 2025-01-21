@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Linan DENG"
-description              : "Linan DENG's personal website."
+title                    : "Linan Deng 邓礼楠"
+description              : "Linan Deng's personal website."
 repository               : "linan-deng/linan-deng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Linan DENG<br>邓礼楠"
+  name             : "Linan Deng<br>邓礼楠"
   avatar           : "images/personal_image.jpg"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
