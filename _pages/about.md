@@ -19,10 +19,10 @@ redirect_from:
 
 My research interest includes tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 馃敟 News
+# 🔥 News
 - *2025.01*. &nbsp;馃帀馃帀 Welcome to my personal website!
 
-# 馃摑 Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, & Genglin Fan.
 - CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, & Genglin Fan.
 
-# 馃帠 Honors and Awards
+# 🎖 Honors and Awards
 ## Competition
 - *2023.09*. China International College Students' "Internet+" Innovation Entrepreneurship Competition (Bronze Prize in HUST)
 - *2022.08*. Artificial Intelligence Conference and Entrepreneurs Summit Forum of China鈥檚 Optics Valley (Best Student Poster Award)
@@ -77,12 +77,12 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 - *2021.11*. Excellent Postgraduate Cadre, HUST
 - *2018.06*. Outstanding Graduate, HUST
 
-# 馃摉 Educations
+# 📖 Educations
 - *2019.09 - 2025.01 (now)*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology. 
 - *2018.09 - 2019.06*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
 - *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
-# 馃挰 Experiences
+# 💬 Experiences
 ## Review Activities
 - IEEE Robotics and Automation Letters (RA-L) (2021)
 - IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022)
