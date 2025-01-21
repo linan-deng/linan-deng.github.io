@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Linan DENG"
+title                    : "Linan DENG (邓礼楠)"
 description              : "Linan DENG's personal website."
 repository               : "linan-deng/linan-deng.github.io"
 google_scholar_stats_use_cdn : true
