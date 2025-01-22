@@ -79,7 +79,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 
 # 📖 Educations
 - *2019.09 - 2025.01 (now)*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
-  Supervisors: Prof. Han Ding, Prof. Ye Yuan 
+  <br>Supervisors: Prof. Han Ding, Prof. Ye Yuan 
 - *2018.09 - 2019.06*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
 - *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
