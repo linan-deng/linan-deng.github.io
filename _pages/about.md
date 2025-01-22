@@ -67,7 +67,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 # 🎖 Honors and Awards
 ## Competition
 - *2023.09*. China International College Students' "Internet+" Innovation Entrepreneurship Competition (Bronze Prize in HUST)
-- *2022.08*. Artificial Intelligence Conference and Entrepreneurs Summit Forum of China鈥檚 Optics Valley (Best Student Poster Award)
+- *2022.08*. Artificial Intelligence Conference and Entrepreneurs Summit Forum of China's Optics Valley (Best Student Poster Award)
 - *2022.08*. China Postgraduate Robot Innovation and Design Competition (National Third Prize)
 - *2015.11*. Chinese Mathematics Competitions (National Second Prize)
 
