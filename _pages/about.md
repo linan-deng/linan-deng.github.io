@@ -29,7 +29,7 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
 
-**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, & Han Ding
+**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, and Han Ding
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=28u-d90AAAAJ&citation_for_view=28u-d90AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
@@ -37,32 +37,32 @@ My research interest includes tactile sensing, robotic grasping in unstructured 
 </div>
 
 ## Journal Papers
-- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, & Zhi Li*. A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. IEEE/ASME Transactions on Mechatronics, (Oncoming).
-- *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, & Han Ding. [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/). IEEE Transactions on Instrumentation and Measurement.
-- *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, & Han Ding. [Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task](https://ieeexplore.ieee.org/abstract/document/10339910/). IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498.
-- *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, & Han Ding. [Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning](https://ieeexplore.ieee.org/abstract/document/9750893/). IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
-- *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, & Ye Yuan. [Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/9732681/). IEEE Robotics and Automation Letters, 7(2), 5607-5614.
+- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*. A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. IEEE/ASME Transactions on Mechatronics, (Oncoming).
+- *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding. [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/). IEEE Transactions on Instrumentation and Measurement.
+- *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, and Han Ding. [Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task](https://ieeexplore.ieee.org/abstract/document/10339910/). IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498.
+- *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, and Han Ding. [Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning](https://ieeexplore.ieee.org/abstract/document/9750893/). IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
+- *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, and Ye Yuan. [Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/9732681/). IEEE Robotics and Automation Letters, 7(2), 5607-5614.
 
 ## Conference Papers
-- *2023*. Jingyu Yang*, Yi Shen, & **Linan Deng**. [Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts](https://ieeexplore.ieee.org/abstract/document/10208545/). In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE.
-- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, & Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
-- *2022*. Ming Liu, Yang Hong, & **Linan Deng***. [Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion](https://ieeexplore.ieee.org/document/10034084). In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
-- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, & **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
+- *2023*. Jingyu Yang*, Yi Shen, and **Linan Deng**. [Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts](https://ieeexplore.ieee.org/abstract/document/10208545/). In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE.
+- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
+- *2022*. Ming Liu, Yang Hong, and **Linan Deng***. [Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion](https://ieeexplore.ieee.org/document/10034084). In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
+- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, and **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 ## National Invention Patents
-- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, & Yang Hong.
-- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, & Ming Liu.
-- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, & Renguang Cao.
-- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, & Xiuchuan Tang.
-- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, & Xiuchuan Tang.
-- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, & **Linan Deng**
+- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong.
+- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu.
+- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao.
+- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang.
+- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang.
+- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**
 
 ## National Utility Model Patents
-- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, & Xiuchuan Tang.
-- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, & Jinghao Zhang.
-- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, & Xiuchuan Tang.
-- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, & Genglin Fan.
-- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, & Genglin Fan.
+- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang.
+- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, and Jinghao Zhang.
+- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang.
+- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, and Genglin Fan.
+- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, and Genglin Fan.
 
 # 🎖 Honors and Awards
 ## Competition
