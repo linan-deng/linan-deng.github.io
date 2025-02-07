@@ -31,7 +31,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, and Han Ding
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=28u-d90AAAAJ&citation_for_view=28u-d90AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://ieeexplore.ieee.org/abstract/document/9812412) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
 </div>
 </div>
