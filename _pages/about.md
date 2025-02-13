@@ -23,7 +23,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2025.01*. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech2025-RTES.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech2025-robotic_tactile_excavation_system.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials]()
   
@@ -35,13 +35,25 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA2022-glove_prototype.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TMech2025-active_learning_aided_design.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/)
+  
+**Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, and Han Ding
+  
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA2022-sen_glove.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
   
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, and Han Ding
 
-[**Project**](https://ieeexplore.ieee.org/abstract/document/9812412) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
 </div>
 </div>
