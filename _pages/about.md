@@ -23,7 +23,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2025.01*. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech2022-RTES.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech2025-RTES.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials]()
   
