@@ -59,7 +59,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 
 ## Journal Papers
-- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*. A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. IEEE/ASME Transactions on Mechatronics, (Oncoming).
+- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*. [A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials](https://ieeexplore.ieee.org/document/10884066). IEEE/ASME Transactions on Mechatronics, (Oncoming).
 - *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding. [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/). IEEE Transactions on Instrumentation and Measurement.
 - *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, and Han Ding. [Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task](https://ieeexplore.ieee.org/abstract/document/10339910/). IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498.
 - *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, and Han Ding. [Kinematic control for crossed-fiber-reinforced soft manipulator using sparse Bayesian learning](https://ieeexplore.ieee.org/abstract/document/9750893/). IEEE/ASME Transactions on Mechatronics, 27(2), 611-622.
