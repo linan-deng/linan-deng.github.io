@@ -35,7 +35,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM2024-active_learning_aided_design.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM2024-tactile_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/)
   
