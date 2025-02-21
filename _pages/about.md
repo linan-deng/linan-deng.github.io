@@ -47,7 +47,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA2022-sen_glove.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
   
