@@ -41,7 +41,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
   
 **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, and Han Ding
   
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project** <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
 </div>
 </div>
