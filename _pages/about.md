@@ -29,7 +29,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Han Ding
   
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project** <strong><span class='show_paper_citations' data='28u-d90AAAAJ:IjCSPb-OGe4C'></span></strong>
 - Developed a robotic tactile excavation system for excavating objects using only multi-modal tactile sensing. 
 </div>
 </div>
