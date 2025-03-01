@@ -27,7 +27,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <div class='paper-box-text' markdown="1">
 [A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials](https://ieeexplore.ieee.org/document/10884066)
   
-**Linan Deng**, Yasen Wang, Zuogong Yue, and Han Ding
+**Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li
   
 **Project**
 - Developed a robotic tactile excavation system for excavating objects using only multi-modal tactile sensing. 
@@ -39,7 +39,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <div class='paper-box-text' markdown="1">
 [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/)
   
-**Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, and Han Ding
+**Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan, and Han Ding
   
 **Project**
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
