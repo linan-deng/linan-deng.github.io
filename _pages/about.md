@@ -27,7 +27,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <div class='paper-box-text' markdown="1">
 [A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials](https://ieeexplore.ieee.org/document/10884066)
   
-**Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li
+**Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
   
 **Project**
 - Developed a robotic tactile excavation system for excavating objects using only multi-modal tactile sensing. 
@@ -39,7 +39,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <div class='paper-box-text' markdown="1">
 [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/)
   
-**Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan, and Han Ding
+**Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding
   
 **Project**
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
@@ -51,7 +51,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <div class='paper-box-text' markdown="1">
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
   
-**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He, Ye Yuan, Zhi Li, and Han Ding
+**Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding
 
 **Project** <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong>
 - Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
