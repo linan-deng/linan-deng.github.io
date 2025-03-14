@@ -108,6 +108,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 
 # 💬 Experiences
 ## Review Activities
+- IEEE Transactions on Instrumentation and Measurement (TIM) (2025)
 - IEEE Robotics and Automation Letters (RA-L) (2021)
 - IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2021)
