@@ -27,7 +27,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">xx 2025</div><img src='images/ICIRA2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media]()
-**Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
+**Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*
 **Project**
 - Proposed a visual-tactile fusion-driven diffusion policy for excavating semi-buried objects in granular media. 
 </div>
