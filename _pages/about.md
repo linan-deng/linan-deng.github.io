@@ -24,7 +24,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2025.01*. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications 
-#################################################################################################################
+<!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">xx 2025</div><img src='images/ICIRA2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media]()
@@ -37,7 +37,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 </div>
 
-#################################################################################################################
+<!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech2025-egg_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials](https://ieeexplore.ieee.org/document/10884066)
@@ -50,7 +50,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 </div>
 
-#################################################################################################################
+<!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM2024-tactile_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/)
@@ -63,7 +63,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 </div>
 </div>
 
-#################################################################################################################
+<!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
