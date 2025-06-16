@@ -120,7 +120,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2018.06*. Outstanding Graduate, HUST
 
 # 📖 Educations
-- *2019.09 - 2025.01 (now)*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
+- *2019.09 - 2025.06*. School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
   <br>Supervisors: Prof. [Han Ding](http://faculty.hust.edu.cn/dinghan1/zh_CN/index.htm), Prof. [Ye Yuan](http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm) 
 - *2018.09 - 2019.06*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
 - *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
