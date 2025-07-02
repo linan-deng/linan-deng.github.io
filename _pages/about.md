@@ -25,7 +25,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 
 # 📝 Publications 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">xx 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media]()
   
