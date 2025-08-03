@@ -46,7 +46,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 
 **Project**
 
-- Developed a robotic tactile excavation system for excavating objects using only multi-modal tactile sensing. 
+- Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
 </div>
 </div>
 
