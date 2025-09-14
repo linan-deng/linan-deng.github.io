@@ -92,21 +92,21 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, and **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 ## National Invention Patents
-- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong.	一种基于液态金属的触觉传感器、阵列及其制备方法.
-- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu. 	一种线驱模块化软体康复手套.
-- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao. 基于形态学滤波和卷积神经网络的无纺布疵点检测方法.
-- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. 一种基于光衰减的柔性触觉传感器、阵列及其制备方法.
-- CN118330773A. Ye Yuan, Zelin Deng, Xin Sun, and **Linan Deng**. 一种水下物体探测方法及系统.
-- CN120516695A. Ye Yuan, Xin Sun, Han Ding, Cheng Cheng, **Linan Deng**, Zuogong Yue, Feng Hua, Zeyuan Yang, Xing Liu, Shichuang Wang, and Guijun Ma. 基于强化学习与模仿学习的灵巧手航空部件重定向方法.
-- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. 一种气动仿蠕虫软体操纵臂及其制备方法.
-- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**. 一种介电弹性体驱动器、柔性足和仿海星软体机器人.
+- 一种基于液态金属的触觉传感器、阵列及其制备方法. CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong.
+- 一种线驱模块化软体康复手套. CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu.
+- 基于形态学滤波和卷积神经网络的无纺布疵点检测方法. CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao.
+- 一种基于光衰减的柔性触觉传感器、阵列及其制备方法. CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang.
+- 基于强化学习与模仿学习的灵巧手航空部件重定向方法. CN120516695A. Ye Yuan, Xin Sun, Han Ding, Cheng Cheng, **Linan Deng**, Zuogong Yue, Feng Hua, Zeyuan Yang, Xing Liu, Shichuang Wang, and Guijun Ma. 
+- 一种水下物体探测方法及系统. CN118330773A. Ye Yuan, Zelin Deng, Xin Sun, and **Linan Deng**. 
+- 一种气动仿蠕虫软体操纵臂及其制备方法. CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. 
+- 一种介电弹性体驱动器、柔性足和仿海星软体机器人. CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**. 
 
 ## National Utility Model Patents
-- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. 一种气动仿蠕虫软体操纵臂.
-- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, and Jinghao Zhang. 一种基于介电弹性体驱动器的蝴蝶仿生飞行机器人.
-- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang.	一种基于光衰减的柔性触觉传感器及阵列.
-- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, and Genglin Fan. 一种基于介电弹性体伸缩驱动器的鱼仿生游泳机器人.
-- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, and Genglin Fan. 一种基于介电弹性体伸缩驱动器的青蛙仿生游泳机器人.
+- 一种气动仿蠕虫软体操纵臂. CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. 
+- 一种基于介电弹性体驱动器的蝴蝶仿生飞行机器人. CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, and Jinghao Zhang. 
+- 一种基于光衰减的柔性触觉传感器及阵列. CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang.	
+- 一种基于介电弹性体伸缩驱动器的鱼仿生游泳机器人. CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, and Genglin Fan. 
+- 一种基于介电弹性体伸缩驱动器的青蛙仿生游泳机器人. CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, and Genglin Fan. 
 
 # 🎖 Honors and Awards
 ## Competition
