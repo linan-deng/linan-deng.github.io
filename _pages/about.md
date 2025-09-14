@@ -96,6 +96,8 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu.
 - CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao.
 - CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang.
+- CN118330773A. Ye Yuan, Zelin Deng, Xin Sun, and **Linan Deng**. 一种水下物体探测方法及系统.
+- CN120516695A. Ye Yuan, Xin Sun, Han Ding, Cheng Cheng, **Linan Deng**, Zuogong Yue, Feng Hua, Zeyuan Yang, Xing Liu, Shichuang Wang, and Guijun Ma. 基于强化学习与模仿学习的灵巧手航空部件重定向方法.
 - CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang.
 - CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**
 
