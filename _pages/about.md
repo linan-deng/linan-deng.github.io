@@ -92,7 +92,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, and **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
 
 ## National Invention Patents
-- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong. **一种基于液态金属的触觉传感器、阵列及其制备方法**
+- CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong. \color{blue}{一种基于液态金属的触觉传感器、阵列及其制备方法}
 - CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu. **一种线驱模块化软体康复手套**
 - CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao. **基于形态学滤波和卷积神经网络的无纺布疵点检测方法**
 - CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. **一种基于光衰减的柔性触觉传感器、阵列及其制备方法**
