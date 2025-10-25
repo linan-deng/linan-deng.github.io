@@ -27,7 +27,7 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media]()
+[Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media](https://link.springer.com/chapter/10.1007/978-981-95-2101-2_37)
   
 **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*
 
@@ -85,11 +85,11 @@ My research interests include tactile sensing, robotic grasping in unstructured 
 - *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, and Ye Yuan. [Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/9732681/). IEEE Robotics and Automation Letters, 7(2), 5607-5614.
 
 ## Conference Papers
-- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*. Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Object in Granular Media. (Accept). In 2025 18th International Conference on Intelligent Robotics and Applications (ICIRA).
-- *2023*. Jingyu Yang*, Yi Shen, and **Linan Deng**. [Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts](https://ieeexplore.ieee.org/abstract/document/10208545/). In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE.
-- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 39th International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE.
-- *2022*. Ming Liu, Yang Hong, and **Linan Deng***. [Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion](https://ieeexplore.ieee.org/document/10034084). In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE.
-- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, and **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337). IEEE.
+- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*. [Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Object in Granular Media](https://link.springer.com/chapter/10.1007/978-981-95-2101-2_37). In 2025 18th International Conference on Intelligent Robotics and Applications (ICIRA) (pp. 447–459) (Okayama, Japan, August 6–9, 2025).
+- *2023*. Jingyu Yang*, Yi Shen, and **Linan Deng**. [Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts](https://ieeexplore.ieee.org/abstract/document/10208545/). In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149) (Guangzhou, China, July 13-15, 2023).
+- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding. [Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412). In 2022 39th International Conference on Robotics and Automation (ICRA) (pp. 5170-5175) (Philadelphia, PA, USA, May 23-27, 2022).
+- *2022*. Ming Liu, Yang Hong, and **Linan Deng***. [Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion](https://ieeexplore.ieee.org/document/10034084). In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276) (Hefei, China, May 21-23, 2022).
+- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, and **Linan Deng**. [Model Predictive Control Method for Multi-motor System with Dead Zone](https://ieeexplore.ieee.org/abstract/document/9501335/). In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337) (Dalian, China, July 15-17, 2021).
 
 ## National Invention Patents
 - CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong. <u>一种基于液态金属的触觉传感器、阵列及其制备方法</u>
