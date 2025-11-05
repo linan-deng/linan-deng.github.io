@@ -21,7 +21,7 @@ redirect_from:
 My research interests include tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. In June 2025, I obtained the PhD in Mechanical Engineering from Huazhong University of Science and Technology. Now I am working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology. 
 
 # 🔥 News
-- *2025.08*. 🎉🎉 Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in the Hong Kong University of Science and Technology!
+- *2025.08*. 🎉🎉 Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
 - *2025.01*. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications 
