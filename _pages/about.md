@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am Linan Deng. In June 2025, I obtained the Ph.D. in Mechanical Engineering under the supervision of Prof. [Han Ding](http://faculty.hust.edu.cn/dinghan1/zh_CN/index.htm), Prof. [Ye Yuan](http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm) from Huazhong University of Science and Technology. Now I am working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology. My research interests include tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology. I received the B.E. in Marine Engineering from School of Naval Architecture and Ocean Engineering in 2018.07, and Ph.D. in Mechanical Engineering from School of Mechanical Science and Engineering in 2025.07 under the supervision of Prof. [Han Ding](http://faculty.hust.edu.cn/dinghan1/zh_CN/index.htm) and Prof. [Ye Yuan](http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm). My research interests include tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 # 🔥 News
 - *2025.08*. Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
@@ -123,10 +123,10 @@ I am Linan Deng. In June 2025, I obtained the Ph.D. in Mechanical Engineering un
 - *2018.06*. Outstanding Graduate, HUST
 
 # 📖 Educations
-- *2019.09 - 2025.06*. Ph.D. in Mechanical Engineering. School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
+- *2019.09 - 2025.07*. Ph.D. in Mechanical Engineering. School of Mechanical Science and Engineering, Huazhong University of Science and Technology.
   <br>Supervisors: Prof. [Han Ding](http://faculty.hust.edu.cn/dinghan1/zh_CN/index.htm), Prof. [Ye Yuan](http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm) 
-- *2018.09 - 2019.06*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
-- *2014.09 - 2018.06*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
+- *2018.09 - 2019.07*. China-EU Institute for Clean and Renewable Energy, Huazhong University of Science and Technology.
+- *2014.09 - 2018.07*. B.E. in Marine Engineering. School of Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology.
 
 # 💬 Experiences
 ## Review Activities
