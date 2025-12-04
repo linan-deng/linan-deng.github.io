@@ -132,7 +132,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 ## Review Activities
 - IEEE Transactions on Instrumentation and Measurement (TIM) (2025)
 - IEEE Robotics and Automation Letters (RA-L) (2021)
-- IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022)
+- IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022, 2026)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2021)
 - Chinese Control and Decision Conference (CCDC) (2022)
 
