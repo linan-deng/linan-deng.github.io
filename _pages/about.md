@@ -31,7 +31,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
   
 **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*
 
-[[paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
+[[Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
 
 - Proposed a visual-tactile fusion-driven diffusion policy for excavating semi-buried objects in granular media. 
 </div>
@@ -44,7 +44,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
 
-[[paper](https://ieeexplore.ieee.org/document/10884066)]
+[[Paper](https://ieeexplore.ieee.org/document/10884066)]
 
 - Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
 </div>
@@ -57,7 +57,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
   
 **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding
 
-[[paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
   
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
 </div>
@@ -70,7 +70,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
   
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding
 
-[[paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
 
 <!-- <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong> -->
 
