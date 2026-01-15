@@ -45,7 +45,7 @@ A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Ma
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
 
-[paper]](https://ieeexplore.ieee.org/document/10884066)
+[paper](https://ieeexplore.ieee.org/document/10884066)
 
 - Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
 </div>
