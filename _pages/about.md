@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-
 I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology (HKUST). I received B.E. in Marine Engineering in July 2018 and Ph.D. in Mechanical Engineering in July 2025 from Huazhong University of Science and Technology (HUST), supervised by Prof. [Han Ding](http://faculty.hust.edu.cn/dinghan1/zh_CN/index.htm) and Prof. [Ye Yuan](http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm). My research interests include tactile sensing, robotic grasping in unstructured environment, flexible sensor design, bio-inspired robotics, wearable robotics. I have published some papers at the robotic journals and conferences. Please refer to google scholar <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 # 🔥 News
