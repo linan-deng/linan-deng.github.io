@@ -28,11 +28,11 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media
+**Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media**
   
 **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*
 
-[paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)
+[[paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
 
 - Proposed a visual-tactile fusion-driven diffusion policy for excavating semi-buried objects in granular media. 
 </div>
@@ -41,11 +41,11 @@ Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Bur
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech-2025-egg_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials
+**A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials**
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
 
-[paper](https://ieeexplore.ieee.org/document/10884066)
+[[paper](https://ieeexplore.ieee.org/document/10884066)]
 
 - Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
 </div>
@@ -54,11 +54,11 @@ A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Ma
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM-2024-tactile_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects
+**Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects**
   
 **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding
 
-[paper](https://ieeexplore.ieee.org/abstract/document/10648826/)
+[[paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
   
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
 </div>
@@ -67,11 +67,11 @@ Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing 
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing
+**Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing**
   
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding
 
-[paper](https://ieeexplore.ieee.org/abstract/document/9812412)
+[[paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
 
 <!-- <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong> -->
 
