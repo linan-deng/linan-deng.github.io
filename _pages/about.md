@@ -23,8 +23,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 - *2025.08*. Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
 - *2025.01*. 🎉🎉 Welcome to my personal website!
 
-# 📝 Publications 
-<!--#################################################################################################################-->
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media**
