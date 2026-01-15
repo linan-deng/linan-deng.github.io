@@ -73,7 +73,7 @@ Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sens
 
 [paper](https://ieeexplore.ieee.org/abstract/document/9812412)
 
-**Project** <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong>
+<!-- <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong> -->
 
 - Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
 </div>
