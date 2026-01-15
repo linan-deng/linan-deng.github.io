@@ -41,11 +41,11 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech-2025-egg_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials](https://ieeexplore.ieee.org/document/10884066)
+A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
 
-**Project**
+[paper]](https://ieeexplore.ieee.org/document/10884066)
 
 - Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
 </div>
@@ -54,11 +54,11 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM-2024-tactile_grasp.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects](https://ieeexplore.ieee.org/abstract/document/10648826/)
+Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects
   
 **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding
-  
-**Project**
+
+[paper](https://ieeexplore.ieee.org/abstract/document/10648826/)
   
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
 </div>
@@ -67,9 +67,11 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing](https://ieeexplore.ieee.org/abstract/document/9812412)
+Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing
   
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding
+
+[paper](https://ieeexplore.ieee.org/abstract/document/9812412)
 
 **Project** <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong>
 
