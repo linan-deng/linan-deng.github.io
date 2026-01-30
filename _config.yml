@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linan Deng 邓礼楠"
-description              : "Email: eedenglinan@ust.hk\n denglinandln@outlook.com"
+description              : "Email: \n eedenglinan@ust.hk\n denglinandln@outlook.com"
 repository               : "linan-deng/linan-deng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=28u-d90AAAAJ"
-  email            : "denglinan@hust.edu.cn"
+  email            : "denglinandln@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Linan-Deng-4"
   uri              :
   bitbucket        :
