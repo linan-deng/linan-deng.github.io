@@ -79,36 +79,36 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 </div>
 
 ## Journal Papers
-- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Zuogong Yue, and et al. _DPRE: Diffusion Policy-based Robotic Excavation with Visual and Tactile Feedback_. (In submitting)
-- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*. *A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials*. IEEE/ASME Transactions on Mechatronics. [[Paper](https://ieeexplore.ieee.org/document/10884066)]
-- *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding. *Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects*. IEEE Transactions on Instrumentation and Measurement. [[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
-- *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan*, Rong Su, Fumin Zhang, and Han Ding. *Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task*. IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498. [[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
-- *2022*. Yi Shen, **Linan Deng**, Ye Yuan*, Fumin Zhang, and Han Ding. *Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning*. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622. [[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)]
-- *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li*, and Ye Yuan. *Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects*. IEEE Robotics and Automation Letters, 7(2), 5607-5614. [[Paper](https://ieeexplore.ieee.org/abstract/document/9732681/)]
+- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Zuogong Yue, and et al. *DPRE: Diffusion Policy-based Robotic Excavation with Visual and Tactile Feedback*. (In submitting)
+- *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li\*. *A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials*. IEEE/ASME Transactions on Mechatronics. [[Paper](https://ieeexplore.ieee.org/document/10884066)]
+- *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan\*, and Han Ding. *Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects*. IEEE Transactions on Instrumentation and Measurement. [[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
+- *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding. *Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task*. IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498. [[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
+- *2022*. Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding. *Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning*. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622. [[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)]
+- *2022*. **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li\*, and Ye Yuan. *Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects*. IEEE Robotics and Automation Letters, 7(2), 5607-5614. [[Paper](https://ieeexplore.ieee.org/abstract/document/9732681/)]
 
 ## Conference Papers
-- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*. *Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Object in Granular Media*. In 2025 18th International Conference on Intelligent Robotics and Applications (ICIRA) (pp. 447–459) (Okayama, Japan, August 6–9, 2025). [[Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
-- *2023*. Jingyu Yang*, Yi Shen, and **Linan Deng**. *Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts*. In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149) (Guangzhou, China, July 13-15, 2023). [[Paper](https://ieeexplore.ieee.org/abstract/document/10208545/)]
-- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding. *Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing*. In 2022 39th International Conference on Robotics and Automation (ICRA) (pp. 5170-5175) (Philadelphia, PA, USA, May 23-27, 2022). [[Paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
-- *2022*. Ming Liu, Yang Hong, and **Linan Deng***. *Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion*. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276) (Hefei, China, May 21-23, 2022). [[Paper](https://ieeexplore.ieee.org/document/10034084)]
-- *2021*. Genglin Fan, Xiuchuan Tang*, Yi Shen, and **Linan Deng**. *Model Predictive Control Method for Multi-motor System with Dead Zone*. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337) (Dalian, China, July 15-17, 2021). [[Paper](https://ieeexplore.ieee.org/abstract/document/9501335/)]
+- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue\*. *Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Object in Granular Media*. In 2025 18th International Conference on Intelligent Robotics and Applications (ICIRA) (pp. 447–459) (Okayama, Japan, August 6–9, 2025). [[Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
+- *2023*. Jingyu Yang*, Yi Shen, and **Linan Deng**. *Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts\*. In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149) (Guangzhou, China, July 13-15, 2023). [[Paper](https://ieeexplore.ieee.org/abstract/document/10208545/)]
+- *2022*. **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He\*, Ye Yuan, Zhi Li, and Han Ding. *Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing*. In 2022 39th International Conference on Robotics and Automation (ICRA) (pp. 5170-5175) (Philadelphia, PA, USA, May 23-27, 2022). [[Paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
+- *2022*. Ming Liu, Yang Hong, and **Linan Deng**\*. *Research on Data Construction and Classification of Deformable Objects Grasped by Soft Hand with Multi-source Information Fusion*. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276) (Hefei, China, May 21-23, 2022). [[Paper](https://ieeexplore.ieee.org/document/10034084)]
+- *2021*. Genglin Fan, Xiuchuan Tang\*, Yi Shen, and **Linan Deng**. *Model Predictive Control Method for Multi-motor System with Dead Zone*. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp.333-337) (Dalian, China, July 15-17, 2021). [[Paper](https://ieeexplore.ieee.org/abstract/document/9501335/)]
 
 ## National Invention Patents
 - CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong. *一种基于液态金属的触觉传感器、阵列及其制备方法*
-- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu. <u>一种线驱模块化软体康复手套</u>
-- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao. <u>基于形态学滤波和卷积神经网络的无纺布疵点检测方法</u>
-- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. <u>一种基于光衰减的柔性触觉传感器、阵列及其制备方法<u>
-- CN120516695A. Ye Yuan, Xin Sun, Han Ding, Cheng Cheng, **Linan Deng**, Zuogong Yue, Feng Hua, Zeyuan Yang, Xing Liu, Shichuang Wang, and Guijun Ma. <u>基于强化学习与模仿学习的灵巧手航空部件重定向方法</u>
-- CN118330773A. Ye Yuan, Zelin Deng, Xin Sun, and **Linan Deng**. <u>一种水下物体探测方法及系统</u>
-- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. <u>一种气动仿蠕虫软体操纵臂及其制备方法</u>
-- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**. <u>一种介电弹性体驱动器、柔性足和仿海星软体机器人</u>
+- CN113576832B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Ming Liu. *一种线驱模块化软体康复手套*
+- CN110400306B. Zelin Deng, Yunlong Dong, **Linan Deng**, Xiuchuan Tang, Lianhua Deng, and Renguang Cao. *基于形态学滤波和卷积神经网络的无纺布疵点检测方法*
+- CN112229553B. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. *一种基于光衰减的柔性触觉传感器、阵列及其制备方法*
+- CN120516695A. Ye Yuan, Xin Sun, Han Ding, Cheng Cheng, **Linan Deng**, Zuogong Yue, Feng Hua, Zeyuan Yang, Xing Liu, Shichuang Wang, and Guijun Ma. *基于强化学习与模仿学习的灵巧手航空部件重定向方法*
+- CN118330773A. Ye Yuan, Zelin Deng, Xin Sun, and **Linan Deng**. *一种水下物体探测方法及系统*
+- CN112454421A. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. *一种气动仿蠕虫软体操纵臂及其制备方法*
+- CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**. *一种介电弹性体驱动器、柔性足和仿海星软体机器人*
 
 ## National Utility Model Patents
-- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. <u>一种气动仿蠕虫软体操纵臂</u>
-- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, and Jinghao Zhang. <u>一种基于介电弹性体驱动器的蝴蝶仿生飞行机器人</u>
-- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. <u>一种基于光衰减的柔性触觉传感器及阵列</u>
-- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, and Genglin Fan. <u>一种基于介电弹性体伸缩驱动器的鱼仿生游泳机器人</u>
-- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, and Genglin Fan. <u>一种基于介电弹性体伸缩驱动器的青蛙仿生游泳机器人</u>
+- CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. *一种气动仿蠕虫软体操纵臂*
+- CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, and Jinghao Zhang. *一种基于介电弹性体驱动器的蝴蝶仿生飞行机器人*
+- CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. *一种基于光衰减的柔性触觉传感器及阵列*
+- CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, and Genglin Fan. *一种基于介电弹性体伸缩驱动器的鱼仿生游泳机器人*
+- CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, and Genglin Fan. *一种基于介电弹性体伸缩驱动器的青蛙仿生游泳机器人*
 
 # 🎖 Honors and Awards
 ## Competition
