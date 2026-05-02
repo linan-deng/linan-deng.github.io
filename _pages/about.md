@@ -79,7 +79,6 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 </div>
 
 ## Journal Papers
-- *2025*. **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Zuogong Yue, and et al. <u>DPRE: Diffusion Policy-based Robotic Excavation with Visual and Tactile Feedback</u>. (In submitting)
 - *2025*. **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li\*. <u>A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials</u>. IEEE/ASME Transactions on Mechatronics. [[Paper](https://ieeexplore.ieee.org/document/10884066)]
 - *2024*. **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan\*, and Han Ding. <u>Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects</u>. IEEE Transactions on Instrumentation and Measurement. [[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
 - *2023*. Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding. <u>Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task</u>. IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498. [[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
