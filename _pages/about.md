@@ -73,7 +73,7 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)]
   
-- Inspired by muscular antagonism in soft-bodied animals, this work presents a hydrostatic-skeleton-inspired soft manipulator with crossed-fiber reinforcement and a hybrid material structure for worm-like bending. Experiments validate its controllable radial expansion, torsion, and bending under large deformations. A sparse-Bayesian-learning-based piecewise constant curvature model and feedback controller further enable accurate motion tracking with reduced vibration, outperforming least-squares and neural-network-based controllers.
+- This work presents a hydrostatic-skeleton-inspired soft manipulator with crossed-fiber and hybrid-material structures for controllable worm-like bending. A sparse-Bayesian-learning-based kinematic model and feedback controller enable accurate, low-vibration motion tracking.
 </div>
 </div>
 
