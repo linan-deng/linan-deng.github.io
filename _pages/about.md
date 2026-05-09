@@ -63,6 +63,20 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 </div>
 </div>
 
+
+<!--#################################################################################################################-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2022</div><img src='images/TMech-2022-soft_manipulator.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning**
+  
+Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)]
+  
+- Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
+</div>
+</div>
+
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,7 +88,7 @@ I am Linan Deng, currently working as a postdoc in Prof. [Fumin Zhang](https://f
 
 <!-- <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong> -->
 
-- Designed a lightweight wearable glove for hand assistance with 14 soft joint sensors. 
+- Muscular antagonism caused by muscle fibers and muscle layers is vital for the hydrostatic skeleton of soft creatures. This article introduces a crossed-fiber arrangement and a hybrid material structure to a hydrostaticskeleton-inspired soft manipulator that mimics the bending motion of worms. Deformation tests on radial expansion, torsion, and bending motion verify that the proposed design is controllable under large deformations to the manipulator. To achieve accurate control, this article proposes a sparse-Bayesian-learning-based piecewise constant curvature kinematic model and designs a feedback controller based on the kinematic model. The proposed controller demonstrates superior accuracy and reduces vibration compared with the linear least-squares-based controller and the neural-network-based controller in tracking desired movements during experiments.
 </div>
 </div>
 
