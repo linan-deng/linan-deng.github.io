@@ -128,12 +128,14 @@ and preparation method thereof (一种气动仿蠕虫软体操纵臂及其制备
 - CN114274162A. Ye Yuan, Jinghao Zhang, Yi Shen, and **Linan Deng**. Dielectric elastomer actuator, ﬂexible foot, and
 starfsh-like soft robot (一种介电弹性体驱动器、柔性足和仿海星软体机器人)
 
+<!--
 ## National Utility Model Patents
 - CN213859341U. Ye Yuan, Yi Shen, **Linan Deng**, Yunlong Dong, and Xiuchuan Tang. A pneumatic worm-like soft manipulator (一种气动仿蠕虫软体操纵臂)
 - CN217778958U. Ye Yuan, Yuzhe Li, **Linan Deng**, Yi Shen, and Jinghao Zhang. A butterfly-inspired flying robot based on dielectric elastomer actuators (一种基于介电弹性体驱动器的蝴蝶仿生飞行机器人)
 - CN213422490U. Ye Yuan, Genglin Fan, Yi Shen, **Linan Deng**, and Xiuchuan Tang. A flexible tactile sensor and array based on optical attenuation (一种基于光衰减的柔性触觉传感器及阵列)
 - CN216185962U. Ye Yuan, Yilin Han, Yi Shen, **Linan Deng**, and Genglin Fan. A fish-inspired swimming robot based on dielectric elastomer linear actuators (一种基于介电弹性体伸缩驱动器的鱼仿生游泳机器人)
 - CN216185961U. Ye Yuan, Liwen Xiao, Yi Shen, **Linan Deng**, and Genglin Fan. A frog-inspired swimming robot based on dielectric elastomer linear actuators (一种基于介电弹性体伸缩驱动器的青蛙仿生游泳机器人)
+-->
 
 # 🎖 Honors and Awards
 ## Competition
