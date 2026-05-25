@@ -65,6 +65,18 @@ I am currently a Postdoctoral Researcher in Prof. [Fumin Zhang](https://fumin-ho
 </div>
 </div>
 
+<!--#################################################################################################################-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2022</div><img src='images/TMech-2023-bimanual_soft_manipulator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task**
+  
+Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
+  
+- This work presents a planning and motion control framework for underwater bimanual soft manipulator in underwater grasping task.
+</div>
+</div>
 
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2022</div><img src='images/TMech-2022-soft_manipulator.gif' alt="sym" width="100%"></div></div>
