@@ -22,9 +22,9 @@ My research focuses on enabling robots to perform dexterous manipulation in unst
 I am currently a Postdoctoral Researcher in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)’s group at the Hong Kong University of Science and Technology (HKUST). I received my B.E. in Marine Engineering in 2018 and Ph.D. in Mechanical Engineering in 2025 from Huazhong University of Science and Technology (HUST), advised by Prof. [Han Ding](http://faculty.hust.edu.cn/dinghan1/zh_CN/index.htm) and Prof. [Ye Yuan](http://faculty.hust.edu.cn/yeyuan/zh_CN/index/752531/list/index.htm). My publications can be found on <a href='https://scholar.google.com/citations?user=28u-d90AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. And my CV is [here](../images/CV_Linan_Deng.pdf).
 
 # 🔥 News
-- *2026.05*. One paper was accepted by **National Science Review**. DexAnyTwist, a general method for dexterous twisting proposed by my collaborator [Xing Liu](https://scholar.google.com/citations?user=2_cqBv8AAAAJ&hl=en&oi=sra).
-- *2025.08*. Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
-- *2025.01*. 🎉🎉 Welcome to my personal website!
+- 2026.05. One paper was accepted by **National Science Review**. DexAnyTwist, a general method for dexterous twisting proposed by my collaborator [Xing Liu](https://scholar.google.com/citations?user=2_cqBv8AAAAJ&hl=en&oi=sra).
+- 2025.08. Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
+- 2025.01. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications
 <!--#################################################################################################################-->
