@@ -108,6 +108,7 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 </div>
 
 ## Journal Papers
+- Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan. (2026). DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification. National Science Review (Accept).
 - **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li\*. (2025). A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. IEEE/ASME Transactions on Mechatronics, 30(6), 7112-7124. [[Paper](https://ieeexplore.ieee.org/document/10884066)]
 - **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan\*, and Han Ding. (2024). Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects. IEEE Transactions on Instrumentation and Measurement, 73, 1-11. [[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
 - Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding. (2023). Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task. IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498. [[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
