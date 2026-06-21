@@ -34,7 +34,7 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   
 **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*
 
-[[Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
+[Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)
 
 - Proposed a visual-tactile fusion-driven diffusion policy for excavating semi-buried objects in granular media. 
 </div>
@@ -47,7 +47,7 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
 
-[[Paper](https://ieeexplore.ieee.org/document/10884066)]
+[Paper](https://ieeexplore.ieee.org/document/10884066)
 
 - Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
 </div>
@@ -60,7 +60,7 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   
 **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding
 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
+[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)
   
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
 </div>
@@ -73,7 +73,7 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   
 Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding
 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
+[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)
   
 - This work presents a planning and motion control framework for underwater bimanual soft manipulator in underwater grasping task.
 </div>
@@ -86,7 +86,7 @@ Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Z
   
 Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)]
+[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)
   
 - This work presents a hydrostatic-skeleton-inspired soft manipulator with crossed-fiber and hybrid-material structures for controllable worm-like bending. A sparse-Bayesian-learning-based kinematic model and feedback controller enable accurate, low-vibration motion tracking.
 </div>
@@ -99,7 +99,7 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
   
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding
 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
+[Paper](https://ieeexplore.ieee.org/abstract/document/9812412)
 
 <!-- <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong> -->
 
@@ -109,18 +109,18 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 
 ## Journal Papers
 - Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan\*. (2026). DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification. National Science Review, nwag351. [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io)
-- **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li\*. (2025). A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. IEEE/ASME Transactions on Mechatronics, 30(6), 7112-7124. [[Paper](https://ieeexplore.ieee.org/document/10884066)]
-- **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan\*, and Han Ding. (2024). Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects. IEEE Transactions on Instrumentation and Measurement, 73, 1-11. [[Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)]
-- Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding. (2023). Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task. IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498. [[Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)]
-- Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding. (2022). Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622. [[Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)]
-- **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li\*, and Ye Yuan. (2022). Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects. IEEE Robotics and Automation Letters, 7(2), 5607-5614. [[Paper](https://ieeexplore.ieee.org/abstract/document/9732681/)]
+- **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li\*. (2025). A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. IEEE/ASME Transactions on Mechatronics, 30(6), 7112-7124. [Paper](https://ieeexplore.ieee.org/document/10884066)
+- **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan\*, and Han Ding. (2024). Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects. IEEE Transactions on Instrumentation and Measurement, 73, 1-11. [Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)
+- Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding. (2023). Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task. IEEE/ASME Transactions on Mechatronics, 29(4), 2487-2498. [Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)
+- Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding. (2022). Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622. [Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)
+- **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li\*, and Ye Yuan. (2022). Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects. IEEE Robotics and Automation Letters, 7(2), 5607-5614. [Paper](https://ieeexplore.ieee.org/abstract/document/9732681/)
 
 ## Conference Papers
-- **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue\*. (2025, August). Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-buried Object in Granular Media. In International Conference on Intelligent Robotics and Applications (pp. 447-459). Singapore: Springer Nature Singapore. [[Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)]
-- Jingyu Yang*, Yi Shen, and **Linan Deng**. Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts. In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE. [[Paper](https://ieeexplore.ieee.org/abstract/document/10208545/)]
-- **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He\*, Ye Yuan, Zhi Li, and Han Ding. (2022, May). Sen-glove: A lightweight wearable glove for hand assistance with soft joint sensing. In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE. [[Paper](https://ieeexplore.ieee.org/abstract/document/9812412)]
-- Ming Liu, Yang Hong, and **Linan Deng**\*. (2022, August). Research on data construction and classification of deformable objects grasped by soft hand with multi-source information fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE. [[Paper](https://ieeexplore.ieee.org/document/10034084)]
-- Genglin Fan, Xiuchuan Tang\*, Yi Shen, and **Linan Deng**. (2021, July). Model predictive control method for multi-motor system with dead zone. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 333-337). IEEE. [[Paper](https://ieeexplore.ieee.org/abstract/document/9501335/)]
+- **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue\*. (2025, August). Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-buried Object in Granular Media. In International Conference on Intelligent Robotics and Applications (pp. 447-459). Singapore: Springer Nature Singapore. [Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)
+- Jingyu Yang*, Yi Shen, and **Linan Deng**. Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts. In 2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 144-149). IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/10208545/)
+- **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He\*, Ye Yuan, Zhi Li, and Han Ding. (2022, May). Sen-glove: A lightweight wearable glove for hand assistance with soft joint sensing. In 2022 International Conference on Robotics and Automation (ICRA) (pp. 5170-5175). IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/9812412)
+- Ming Liu, Yang Hong, and **Linan Deng**\*. (2022, August). Research on data construction and classification of deformable objects grasped by soft hand with multi-source information fusion. In 2022 34th Chinese Control and Decision Conference (CCDC) (pp. 6272-6276). IEEE. [Paper](https://ieeexplore.ieee.org/document/10034084)
+- Genglin Fan, Xiuchuan Tang\*, Yi Shen, and **Linan Deng**. (2021, July). Model predictive control method for multi-motor system with dead zone. In 2021 6th International Conference on Automation, Control and Robotics Engineering (CACRE) (pp. 333-337). IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/9501335/)
 
 ## National Invention Patents
 - CN112880547B. Ye Yuan, **Linan Deng**, Yi Shen, Genglin Fan, and Yang Hong. Liquid metal-based tactile sensor, array
