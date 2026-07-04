@@ -33,15 +33,9 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   <div class='paper-box-image'>
     <div>
       <div class="badge">NSR 2026</div>
-      <iframe
-        width="100%"
-        height="260"
-        src="https://www.youtube.com/embed/e1vVgf3w1qc"
-        title="DexAnyTwist video"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-      </iframe>
+      <a href="https://www.youtube.com/watch?v=e1vVgf3w1qc" target="_blank" rel="noopener noreferrer">
+        <img src="https://prevalenter.github.io/dexanytwist.github.io/static/images/head.jpg" alt="DexAnyTwist" width="100%">
+      </a>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
