@@ -48,7 +48,13 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech-2025-egg_grasp.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TMech 2025</div>
+      <img src='images/TMech-2025-egg_grasp.gif' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 **A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials**
   
@@ -61,7 +67,13 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM-2024-tactile_grasp.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TIM 2024</div>
+      <img src='images/TIM-2024-tactile_grasp.gif' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 **Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects**
   
@@ -74,7 +86,13 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2023</div><img src='images/TMech-2023-bimanual_soft_manipulator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TMech 2023</div>
+      <img src='images/TMech-2023-bimanual_soft_manipulator.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 **Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task**
   
@@ -87,7 +105,12 @@ Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Z
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2022</div><img src='images/TMech-2022-soft_manipulator.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">TMech 2022</div>
+      <img src='images/TMech-2022-soft_manipulator.gif' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 **Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning**
   
@@ -100,7 +123,13 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2022</div>
+      <img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 **Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing**
   
@@ -113,6 +142,8 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
 </div>
 </div>
+
+<!--#################################################################################################################-->
 
 ## Journal Papers
 - Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan\*. (2026). DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification. _National Science Review_, nwag351. [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io)
