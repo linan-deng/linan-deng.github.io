@@ -27,6 +27,20 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
 - 2025.01. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications
+
+<!--#################################################################################################################-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2026</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification**
+  
+Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan\*
+
+[Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io)
+
+- Proposed a general dexterous twisting method DexAnyTwist.
+</div>
+</div>
+
 <!--#################################################################################################################-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
