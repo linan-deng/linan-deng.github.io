@@ -39,6 +39,7 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   </div>
 
   <div class='paper-box-text' markdown="1">
+
 **DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification**
   
 Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan\*
@@ -46,6 +47,7 @@ Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guij
 [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io) \| [Video](https://www.youtube.com/watch?v=e1vVgf3w1qc)
 
 - Proposed a general dexterous twisting method DexAnyTwist.
+
   </div>
 </div>
 
