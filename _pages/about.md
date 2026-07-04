@@ -173,8 +173,6 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
   </div>
 </div>
 
-<!--#################################################################################################################-->
-
 ## Journal Papers
 - Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan\*. (2026). DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification. _National Science Review_, nwag351. [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io)
 - **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li\*. (2025). A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials. _IEEE/ASME Transactions on Mechatronics_, 30(6), 7112-7124. [Paper](https://ieeexplore.ieee.org/document/10884066)
