@@ -43,7 +43,7 @@ Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guij
 
 [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io)
 
-- Proposed a general dexterous twisting method DexAnyTwist.
+- Proposed a general dexterous twisting method called DexAnyTwist.
 </div>
 </div>
 
