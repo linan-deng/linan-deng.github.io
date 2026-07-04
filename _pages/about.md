@@ -29,7 +29,7 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
 # 📝 Publications
 
 <!--#################################################################################################################-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2026</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2026</div><img src='https://www.youtube.com/watch?v=e1vVgf3w1qc' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification**
   
