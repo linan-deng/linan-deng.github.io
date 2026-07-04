@@ -39,7 +39,6 @@ I am currently a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.h
   </div>
 
   <div class='paper-box-text' markdown="1">
-
 **DexAnyTwist: Learning General Dexterous Twisting with Hybrid Manipulation System Identification**
   
 Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guijun Ma, Cheng Cheng, Haitao Song, Han Ding, and Ye Yuan\*
@@ -47,20 +46,12 @@ Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guij
 [Paper](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag351/8704707) \| [Project](https://prevalenter.github.io/dexanytwist.github.io) \| [Video](https://www.youtube.com/watch?v=e1vVgf3w1qc)
 
 - Proposed a general dexterous twisting method DexAnyTwist.
-
   </div>
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICIRA 2025</div>
-      <img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2025</div><img src='images/ICIRA-2025-visual_tactile_excavation.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-Buried Objects in Granular Media**
   
 **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue*
@@ -68,19 +59,12 @@ Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guij
 [Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)
 
 - Proposed a visual-tactile fusion-driven diffusion policy for excavating semi-buried objects in granular media. 
-  </div>
+</div>
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TMech 2025</div>
-      <img src='images/TMech-2025-egg_grasp.gif' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2025</div><img src='images/TMech-2025-egg_grasp.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **A Robotic Tactile Excavation System for Excavating Objects Buried in Granular Materials**
   
 **Linan Deng**, Yasen Wang, Zuogong Yue, and Zhi Li*
@@ -88,19 +72,12 @@ Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guij
 [Paper](https://ieeexplore.ieee.org/document/10884066)
 
 - Developed a robotic tactile excavation system for excavating fully-buried objects via only multi-modal tactile sensing. 
-  </div>
+</div>
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TIM 2024</div>
-      <img src='images/TIM-2024-tactile_grasp.gif' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2024</div><img src='images/TIM-2024-tactile_grasp.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Active Learning-Aided Design of a Flexible Tactile Sensor Array for Recognizing Properties of Deformable Objects**
   
 **Linan Deng**, Jinghao Zhang, Zuogong Yue, Zhi Li, Ye Yuan*, and Han Ding
@@ -108,19 +85,12 @@ Xing Liu, Yunlong Dong, Jun Wan, **Linan Deng**, Feng Hua, Yi Shen, Min Yu, Guij
 [Paper](https://ieeexplore.ieee.org/abstract/document/10648826/)
   
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
-  </div>
+</div>
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TMech 2023</div>
-      <img src='images/TMech-2023-bimanual_soft_manipulator.png' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2023</div><img src='images/TMech-2023-bimanual_soft_manipulator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task**
   
 Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding
@@ -128,19 +98,12 @@ Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Z
 [Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)
   
 - This work presents a planning and motion control framework for underwater bimanual soft manipulator in underwater grasping task.
-  </div>
+</div>
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TMech 2022</div>
-      <img src='images/TMech-2022-soft_manipulator.gif' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMech 2022</div><img src='images/TMech-2022-soft_manipulator.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning**
   
 Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
@@ -148,19 +111,12 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 [Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)
   
 - This work presents a hydrostatic-skeleton-inspired soft manipulator with crossed-fiber and hybrid-material structures for controllable worm-like bending. A sparse-Bayesian-learning-based kinematic model and feedback controller enable accurate, low-vibration motion tracking.
-  </div>
+</div>
 </div>
 
 <!--#################################################################################################################-->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICRA 2022</div>
-      <img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/ICRA-2022-joint_sensing.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Sen-Glove: A Lightweight Wearable Glove for Hand Assistance with Soft Joint Sensing**
   
 **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He*, Ye Yuan, Zhi Li, and Han Ding
@@ -170,7 +126,7 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 <!-- <strong><span class='show_paper_citations' data='28u-d90AAAAJ:UeHWp8X0CEIC'></span></strong> -->
 
 - Proposed an active learning-aided design framework to explore the optimum sensitiviy of the tactile sensor array.
-  </div>
+</div>
 </div>
 
 ## Journal Papers
