@@ -23,8 +23,9 @@ I will work as a Postdoctoral Researcher in Korea Korea Advanced Institute of Sc
 
 # 🔥 News
 <!-- - 2026.08. Will work in Korea Advanced Institute of Science and Technology! -->
+- 2026.08. Will work as a Postdoctoral Researcher in Korea Korea Advanced Institute of Science and Technology!
 - 2026.05. One paper was accepted by **National Science Review**. DexAnyTwist, a general method for dexterous twisting proposed by my collaborator [Xing Liu](https://scholar.google.com/citations?user=2_cqBv8AAAAJ&hl=en&oi=sra).
-- 2025.08. Working as a postdoc in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
+- 2025.08. Working as a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
 - 2025.01. 🎉🎉 Welcome to my personal website!
 
 # 📝 Publications
