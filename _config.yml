@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Linan Deng 邓礼楠"
-description              : "Email: \n denglinandln@outlook.com\n eedenglinan@ust.hk"
+description              : "Email: \n denglinandln@outlook.com\n denglinan@kaist.ac.kr\n eedenglinan@ust.hk"
 repository               : "linan-deng/linan-deng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Linan Deng 邓礼楠"
   avatar           : "images/personal_image.jpg"
   bio              : "Postdoctoral Fellow. IEEE and CAA Member."
-  location         : "Hong Kong, China"
+  location         : "Daejeon, Republic of Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=28u-d90AAAAJ"
