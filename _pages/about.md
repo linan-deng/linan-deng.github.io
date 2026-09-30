@@ -176,9 +176,10 @@ Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding
 - Yi Shen, Ruochen Tai, Jinghao Zhang, **Linan Deng**, Ye Yuan\*, Rong Su, Fumin Zhang, and Han Ding. (2023). Planning and Motion Control for Underwater Bimanual Soft Manipulator in Underwater Grasping Task. _IEEE/ASME Transactions on Mechatronics_, 29(4), 2487-2498. [Paper](https://ieeexplore.ieee.org/abstract/document/10339910/)
 - Yi Shen, **Linan Deng**, Ye Yuan\*, Fumin Zhang, and Han Ding. (2022). Kinematic Control for Crossed-Fiber-Reinforced Soft Manipulator Using Sparse Bayesian Learning. IEEE/ASME Transactions on Mechatronics, 27(2), 611-622. [Paper](https://ieeexplore.ieee.org/abstract/document/9750893/)
 - **Linan Deng**, Yi Shen, Genglin Fan, Xin He, Zhi Li\*, and Ye Yuan. (2022). Design of a Soft Gripper with Improved Microfluidic Tactile Sensors for Classification of Deformable Objects. _IEEE Robotics and Automation Letters_, 7(2), 5607-5614. [Paper](https://ieeexplore.ieee.org/abstract/document/9732681/)
-
-## Conference Papers
+<!--
 - **Linan Deng**, Feng Hua, Xing Liu, Zhenyu Zou, Yunlong Dong, Xin Sun, Guijun Ma, Zuogong Yue\*, and Cheng Cheng. DexCav: Dexterous exCavation of Semi-Buried Objects with Multimodal Sensorimotor Policy. (Under review)
+-->
+## Conference Papers
 - **Linan Deng**, Xing Liu, Yunlong Dong, Guijun Ma, Feng Hua, Cheng Cheng, and Zuogong Yue\*. (2025, August). Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-buried Object in Granular Media. In _International Conference on Intelligent Robotics and Applications_ (pp. 447-459). Singapore: Springer Nature Singapore. [Paper](https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link)
 - Jingyu Yang*, Yi Shen, and **Linan Deng**. Continual Contrastive Anomaly Detection under Natural Data Distribution Shifts. In _2023 8th International Conference on Automation, Control and Robotics Engineering (CACRE)_ (pp. 144-149). IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/10208545/)
 - **Linan Deng**, Yi Shen, Yang Hong, Yunlong Dong, Xin He\*, Ye Yuan, Zhi Li, and Han Ding. (2022, May). Sen-glove: A lightweight wearable glove for hand assistance with soft joint sensing. In _2022 International Conference on Robotics and Automation (ICRA)_ (pp. 5170-5175). IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/9812412)
