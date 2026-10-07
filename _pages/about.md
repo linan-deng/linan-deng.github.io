@@ -238,10 +238,11 @@ starfsh-like soft robot (一种介电弹性体驱动器、柔性足和仿海星�
 - IEEE Transactions on Instrumentation and Measurement (TIM) (2025)
 - IEEE Transactions on Haptics (ToH) (2026)
 - IEEE Robotics and Automation Letters (RA-L) (2021)
-- IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022, 2026)
+- IEEE International Conference on Robotics and Automation (ICRA) (2021, 2022, 2026, 2027)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2021, 2026)
 - IEEE-RAS International Conference on Soft Robotics (RoboSoft) (2025)
 - IEEE‑RAS International Conference on Humanoid Robots (Humanoids) (2026)
+- International Conference on Robot Intelligence Technology and Applications (RiTA) (2026)
 - Chinese Control and Decision Conference (CCDC) (2022)
 
 <!-- 娉ㄩ噴鍐呭
