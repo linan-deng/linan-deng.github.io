@@ -25,6 +25,7 @@ My research focuses on enabling robots to perform dexterous manipulation in unst
 
 # 🔥 News
 <!-- - 2026.08. Will work in Korea Advanced Institute of Science and Technology! -->
+- 2026.10. One paper was accepted by **Neurocomputing**.
 - 2026.08. Working as a Postdoctoral Researcher in Prof. [Daehyung Park](https://rirolab.kaist.ac.kr/advisor)'s group in Korea Advanced Institute of Science and Technology!
 - 2026.05. One paper was accepted by **National Science Review**. DexAnyTwist, a general method for dexterous twisting proposed by my collaborator [Xing Liu](https://scholar.google.com/citations?user=2_cqBv8AAAAJ&hl=en&oi=sra).
 - 2025.08. Working as a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
