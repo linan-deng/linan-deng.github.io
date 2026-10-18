@@ -25,7 +25,7 @@ My research focuses on enabling robots to perform dexterous manipulation in unst
 
 # 🔥 News
 <!-- - 2026.08. Will work in Korea Advanced Institute of Science and Technology! -->
-- 2026.10. One paper was accepted by **Neurocomputing**.
+- 2026.10. One paper was accepted by **Neurocomputing**, one paper was accepted by **RiTA**.
 - 2026.08. Working as a Postdoctoral Researcher in Prof. [Daehyung Park](https://rirolab.kaist.ac.kr/advisor)'s group in Korea Advanced Institute of Science and Technology!
 - 2026.05. One paper was accepted by **National Science Review**. DexAnyTwist, a general method for dexterous twisting proposed by my collaborator [Xing Liu](https://scholar.google.com/citations?user=2_cqBv8AAAAJ&hl=en&oi=sra).
 - 2025.08. Working as a Postdoctoral Fellow in Prof. [Fumin Zhang](https://fumin-home.hkust.edu.hk/home)'s group in Hong Kong University of Science and Technology!
@@ -243,6 +243,8 @@ starfsh-like soft robot (一种介电弹性体驱动器、柔性足和仿海星�
 - IEEE‑RAS International Conference on Humanoid Robots (Humanoids) (2026)
 - International Conference on Robot Intelligence Technology and Applications (RiTA) (2026)
 - Chinese Control and Decision Conference (CCDC) (2022)
+
+## Invited Talks
 
 <!-- 娉ㄩ噴鍐呭
 # 馃捇 Internships
